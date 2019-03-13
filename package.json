@@ -1,0 +1,40 @@
+{
+  "name": "automate-form-process",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.8.0",
+    "axios": "^0.18.0",
+    "jquery": "^3.3.1",
+    "material-ui": "^0.20.1",
+    "moment": "^2.22.2",
+    "moment-jalali": "^0.3.9",
+    "ramda": "^0.25.0",
+    "rc-time-picker": "^3.3.1",
+    "react": "^16.4.0",
+    "react-advance-jalaali-datepicker": "^0.3.4",
+    "react-datepicker": "file:node_modules/react-datepicker",
+    "react-datepicker2": "^1.0.0-alpha3",
+    "react-dom": "^16.4.0",
+    "react-dropzone": "^4.2.13",
+    "react-dropzone-component": "^3.2.0",
+    "react-file-uploader": "^1.0.0",
+    "react-files": "^2.4.6",
+    "react-persian-datepicker": "^3.0.2",
+    "react-redux": "^5.0.7",
+    "react-scripts": "1.1.4",
+    "react-select": "^2.1.2",
+    "react-time-picker": "^2.5.1",
+    "react-upload-file": "^2.0.0-beta.6",
+    "react-validation": "file:node_modules/react-validation",
+    "redux": "^4.0.0",
+    "redux-thunk": "^2.3.0",
+    "service": "^0.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
